@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849056444949",
+    "firebase_url": "https://kannadasangha-3ea9f.firebaseio.com",
+    "project_id": "kannadasangha-3ea9f",
+    "storage_bucket": "kannadasangha-3ea9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849056444949:android:f45780135549b55e77541c",
+        "android_client_info": {
+          "package_name": "com.example.kannada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849056444949-f401f2cirosl9re49c8s5p2om121mt4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvYnHFWt_SAICfjpkKXJnsvv2mlasmN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849056444949-f401f2cirosl9re49c8s5p2om121mt4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
